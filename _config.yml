@@ -1,0 +1,13 @@
+# Site settings
+title: The other other Matt's blog
+motto: Matt Tucker
+email: matthewtckr@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  There are a lot of "Matt"s out there.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://matthewtckr.github.io" # the base hostname & protocol for your site
+twitter_username: matthewtckr
+github_username:  matthewtckr
+
+# Build settings
+markdown: kramdown
